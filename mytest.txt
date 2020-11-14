@@ -1,1 +1,8 @@
 hello
+上传步骤：
+git add <filename>  或者  git add *
+git commit -m "代码提交信息"
+git push origin master
+
+欲将你的仓库连接到某个远程服务器，你可以使用如下命令添加：
+git remote add origin <server
